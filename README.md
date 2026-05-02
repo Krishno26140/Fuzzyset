@@ -46,7 +46,7 @@ Meaning:
  Complete Program
 
 ```python
-# Function to compute Support Set
+
 
 def support(fuset: dict):
 
@@ -58,7 +58,7 @@ def support(fuset: dict):
             print(element, end=" ")
 
 
-# Fuzzy Set
+
 A1 = {
     "a": 0.2,
     "b": 0,
